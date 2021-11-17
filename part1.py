@@ -16,7 +16,6 @@ Enter a fifth number: 6
 The sum of the numbers you entered is 40
 
 '''
-
 #code starts here
 first_value = int(input("Enter a number: "))
 second_value = int(input("Enter a second number: "))
